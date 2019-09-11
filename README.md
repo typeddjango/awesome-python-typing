@@ -31,7 +31,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 - [django-stubs](https://github.com/typeddjango/django-stubs) - stubs for [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - stubs for [DRF](https://github.com/encode/django-rest-framework).
-- [numpy-stubs](https://github.com/rominf/ordered-set-stubs) - stubs for [NumPy](http://github.com/numpy/numpy).
+- [numpy-stubs](https://github.com/numpy/numpy-stubs) - stubs for [NumPy](http://github.com/numpy/numpy).
 - [dry-python/returns](https://github.com/dry-python/returns) - stubs for [returns](https://github.com/dry-python/returns).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) - stubs for [grpc](https://github.com/grpc/grpc).
