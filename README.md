@@ -11,6 +11,7 @@ Collection of awesome Python stubs and tools to work with them.
 ## Contents
 
 - [Stub packages](#stub-packages)
+- [Mypy plugins](https://github.com/typeddjango/awesome-python-stubs#mypy-plugins)
 - [Tools](#tools)
 - [Articles](#articles)
 
