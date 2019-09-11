@@ -1,6 +1,5 @@
 # awesome-python-typing
 
-[![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![Gitter](https://badges.gitter.im/mypy-django/Lobby.svg)](https://gitter.im/mypy-django/Lobby)
 
 Collection of awesome Python types, stubs, plugins, and tools to work with them.
