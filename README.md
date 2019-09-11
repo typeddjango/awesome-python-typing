@@ -23,7 +23,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [numpy-stubs](https://github.com/rominf/ordered-set-stubs) - stubs for [NumPy](http://github.com/numpy/numpy).
 - [dry-python/returns](https://github.com/dry-python/returns) - stubs for [returns](https://github.com/dry-python/returns).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
-- [grpc-stubs](https://pypi.org/project/grpc-stubs/) - stubs for [grpc](https://github.com/grpc/grpc).
+- [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) - stubs for [grpc](https://github.com/grpc/grpc).
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) - stubs for [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
 
 
