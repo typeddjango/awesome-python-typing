@@ -1,11 +1,11 @@
 <img src="http://mypy-lang.org/static/mypy_light.svg" alt="mypy logo" width="300px"/>
 
-# awesome-python-stubs
+# awesome-python-typing
 
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![Gitter](https://badges.gitter.im/mypy-django/Lobby.svg)](https://gitter.im/mypy-django/Lobby)
 
-Collection of awesome Python stubs and tools to work with them.
+Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 
 ## Contents
