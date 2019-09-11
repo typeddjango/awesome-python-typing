@@ -39,6 +39,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [PEP-484](https://www.python.org/dev/peps/pep-0484/) about type annotations.
 - [PEP-561](https://www.python.org/dev/peps/pep-0561/) about distributing and packaging type information.
 - [MyPy docs](https://mypy.readthedocs.io/en/latest/stubs.html) about stubs.
+- [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - full tutorial.
 
 
 ## License
