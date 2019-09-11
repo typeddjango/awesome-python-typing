@@ -43,6 +43,12 @@ Collection of awesome Python stubs and tools to work with them.
 - [pytype](https://github.com/google/pytype/) - A static type analyzer, alternative to mypy. Can do static type inference, and generate stub files with infered types.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - part of pytype toolchain, applies stub files onto source code.
 
+## Integrations
+
+- [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) - mypy integration for PyCharm.
+- [vim-mypy](https://github.com/Integralist/vim-mypy) - mypy integration for Vim.
+- [linter-mypy](https://atom.io/packages/linter-mypy) - mypy intagration for Atom.
+- [emacs-flycheck-mypy](https://github.com/lbolla/emacs-flycheck-mypy) - mypy intagration for Emacs.
 
 ## Articles
 
