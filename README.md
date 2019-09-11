@@ -32,6 +32,8 @@ Collection of awesome Python stubs and tools to work with them.
 - [MonkeyType](https://github.com/instagram/MonkeyType) - MonkeyType collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
 - [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - pytest plugin for testing mypy types, stubs, and plugins.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - A plugin for Flake8 that provides specializations for type hinting stub files.
+- [pytype](https://github.com/google/pytype/) - A static type analyzer, alternative to mypy. Can do static type inference, and generate stub files with infered types.
+- [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - part of pytype toolchain, applies stub files onto source code.
 
 
 ## Articles
