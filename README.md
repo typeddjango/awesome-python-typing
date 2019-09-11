@@ -15,6 +15,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Articles](#articles)
+- [Communities](#communities)
 
 
 ## Stub packages
@@ -37,6 +38,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [mypy-zope](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - some plugins already integrated into mypy.
 
+
 ## Tools
 
 - [MonkeyType](https://github.com/instagram/MonkeyType) - MonkeyType collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
@@ -48,6 +50,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - part of pytype toolchain, applies stub files onto source code.
 - [retype](https://github.com/ambv/retype) - another one tool to apply stubs to code.
 
+
 ## Integrations
 
 - [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) - mypy integration for PyCharm.
@@ -55,12 +58,19 @@ Collection of awesome Python stubs and tools to work with them.
 - [linter-mypy](https://atom.io/packages/linter-mypy) - mypy intagration for Atom.
 - [emacs-flycheck-mypy](https://github.com/lbolla/emacs-flycheck-mypy) - mypy intagration for Emacs.
 
+
 ## Articles
 
 - [PEP-484](https://www.python.org/dev/peps/pep-0484/) about type annotations.
 - [PEP-561](https://www.python.org/dev/peps/pep-0561/) about distributing and packaging type information.
 - [MyPy docs](https://mypy.readthedocs.io/en/latest/stubs.html) about stubs.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - full tutorial.
+
+
+## Communities
+
+- [python/typing](https://gitter.im/python/typing) gitter chat.
+- [TypedDjango](https://gitter.im/mypy-django/Lobby) gitter chat.
 
 
 ## License
