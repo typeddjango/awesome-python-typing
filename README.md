@@ -18,13 +18,13 @@ Collection of awesome Python stubs and tools to work with them.
 ## Stub packages
 
 - [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
-- [Django](https://github.com/typeddjango/django-stubs) - stubs for [Django](https://github.com/django/django).
-- [Django Rest Framework](https://github.com/typeddjango/djangorestframework-stubs) - stubs for [DRF](https://github.com/encode/django-rest-framework).
-- [NumPy](https://github.com/rominf/ordered-set-stubs) - stubs for [NumPy](http://github.com/numpy/numpy).
+- [django-stubs](https://github.com/typeddjango/django-stubs) - stubs for [Django](https://github.com/django/django).
+- [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - stubs for [DRF](https://github.com/encode/django-rest-framework).
+- [numpy-stubs](https://github.com/rominf/ordered-set-stubs) - stubs for [NumPy](http://github.com/numpy/numpy).
 - [dry-python/returns](https://github.com/dry-python/returns) - stubs for [returns](https://github.com/dry-python/returns).
-- [SQLAlchemy](https://github.com/dropbox/sqlalchemy-stubs) - stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
-- [grpc](https://pypi.org/project/grpc-stubs/) - stubs for [grpc](https://github.com/grpc/grpc).
-- [OrderedSet](https://github.com/rominf/ordered-set-stubs) - stubs for [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
+- [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
+- [grpc-stubs](https://pypi.org/project/grpc-stubs/) - stubs for [grpc](https://github.com/grpc/grpc).
+- [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) - stubs for [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
 
 
 ## Tools
