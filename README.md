@@ -28,6 +28,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) - stubs for [grpc](https://github.com/grpc/grpc).
 - [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) - stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) - stubs for [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
+- [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 
 
 ## Mypy plugins
@@ -45,6 +46,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - A plugin for Flake8 that provides specializations for type hinting stub files.
 - [pytype](https://github.com/google/pytype/) - A static type analyzer, alternative to mypy. Can do static type inference, and generate stub files with infered types.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - part of pytype toolchain, applies stub files onto source code.
+- [retype](https://github.com/ambv/retype) - another one tool to apply stubs to code.
 
 ## Integrations
 
