@@ -25,6 +25,7 @@ Collection of awesome Python stubs and tools to work with them.
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) - stubs for [grpc](https://github.com/grpc/grpc).
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) - stubs for [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
+- [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 
 
 ## Mypy plugins
