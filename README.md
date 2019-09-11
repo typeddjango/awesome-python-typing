@@ -7,12 +7,23 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Contents
 
+- [Static type checkers](#static-type-checkers)
 - [Stub packages](#stub-packages)
 - [Mypy plugins](https://github.com/typeddjango/awesome-python-stubs#mypy-plugins)
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Articles](#articles)
 - [Communities](#communities)
+- [Related](#related)
+
+
+## Static type checkers
+
+- [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484).
+- [pyre](https://pyre-check.org/) - A performant type-checker for Python 3.
+- [pytype](https://github.com/google/pytype) - Pytype checks and infers types for your Python code - without requiring type annotations.
+- [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers.
+- [pyright](https://github.com/Microsoft/pyright) - Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 
 ## Stub packages
@@ -69,6 +80,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [python/typing](https://gitter.im/python/typing) gitter chat.
 - [TypedDjango](https://gitter.im/mypy-django/Lobby) gitter chat.
 - [PythonRu#typing](https://python-ru.slack.com) slack chat (invites are [here](https://slack.python.ru/))
+
+
+## Related
+
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [python-typecheckers](https://github.com/ethanhs/python-typecheckers)
 
 
 ## License
