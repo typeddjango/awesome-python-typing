@@ -68,6 +68,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [python/typing](https://gitter.im/python/typing) gitter chat.
 - [TypedDjango](https://gitter.im/mypy-django/Lobby) gitter chat.
+- [PythonRu#typing](https://python-ru.slack.com) slack chat (invites are [here](https://slack.python.ru/))
 
 
 ## License
