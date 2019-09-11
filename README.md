@@ -12,6 +12,7 @@ Collection of awesome Python stubs and tools to work with them.
 
 - [Stub packages](#stub-packages)
 - [Tools](#tools)
+- [Integrations](#integrations)
 - [Articles](#articles)
 
 
