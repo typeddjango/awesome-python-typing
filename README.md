@@ -55,4 +55,4 @@ Collection of awesome Python stubs and tools to work with them.
 
 ## License
 
-[MIT](https://github.com/typeddjango/awesome-python-stubs/blob/master/LICENSE)
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
