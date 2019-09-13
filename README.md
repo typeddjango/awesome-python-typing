@@ -63,8 +63,8 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) - mypy integration for PyCharm.
 - [vim-mypy](https://github.com/Integralist/vim-mypy) - mypy integration for Vim.
-- [linter-mypy](https://atom.io/packages/linter-mypy) - mypy intagration for Atom.
-- [emacs-flycheck-mypy](https://github.com/lbolla/emacs-flycheck-mypy) - mypy intagration for Emacs.
+- [linter-mypy](https://atom.io/packages/linter-mypy) - mypy integration for Atom.
+- [emacs-flycheck-mypy](https://github.com/lbolla/emacs-flycheck-mypy) - mypy integration for Emacs.
 
 
 ## Articles
