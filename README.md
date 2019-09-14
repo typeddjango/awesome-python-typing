@@ -19,16 +19,16 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Static type checkers
 
-- [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484).
-- [pyre](https://pyre-check.org/) - A performant type-checker for Python 3.
-- [pytype](https://github.com/google/pytype) - Pytype checks and infers types for your Python code - without requiring type annotations.
-- [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers.
-- [pyright](https://github.com/Microsoft/pyright) - Pyright is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+- [mypy](https://github.com/python/mypy) - optional static typing for Python 3 and 2 (PEP 484).
+- [pyre](https://pyre-check.org/) - a performant type-checker for Python 3.
+- [pytype](https://github.com/google/pytype) - tool to check and infer types for Python code - without requiring type annotations.
+- [PyCharm](https://www.jetbrains.com/pycharm/) - the Python IDE for Professional Developers.
+- [pyright](https://github.com/Microsoft/pyright) - a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 
 ## Stub packages
 
-- [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+- [Typeshed](https://github.com/python/typeshed) - collection of library stubs for Python, with static types.
 - [django-stubs](https://github.com/typeddjango/django-stubs) - stubs for [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - stubs for [DRF](https://github.com/encode/django-rest-framework).
 - [numpy-stubs](https://github.com/numpy/numpy-stubs) - stubs for [NumPy](http://github.com/numpy/numpy).
@@ -42,19 +42,19 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Mypy plugins
 
-- [pynamodb-mypy](https://github.com/lyft/pynamodb-mypy) - Plugin for [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
-- [mypy-zope](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
+- [pynamodb-mypy](https://github.com/lyft/pynamodb-mypy) - plugin for [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
+- [mypy-zope](https://github.com/Shoobx/mypy-zope) - plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - some plugins already integrated into mypy.
 
 
 ## Tools
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) - MonkeyType collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
-- [pytest-mypy](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+- [MonkeyType](https://github.com/instagram/MonkeyType) - collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
+- [pytest-mypy](https://github.com/dbader/pytest-mypy) - mypy static type checker plugin for Pytest.
 - [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - pytest plugin for testing mypy types, stubs, and plugins.
-- [flake8-mypy](https://github.com/ambv/flake8-mypy) - A plugin for flake8 integrating mypy.
-- [flake8-pyi](https://github.com/ambv/flake8-pyi) - A plugin for Flake8 that provides specializations for type hinting stub files.
-- [pytype](https://github.com/google/pytype/) - A static type analyzer, alternative to mypy. Can do static type inference, and generate stub files with infered types.
+- [flake8-mypy](https://github.com/ambv/flake8-mypy) - a plugin for flake8 integrating mypy.
+- [flake8-pyi](https://github.com/ambv/flake8-pyi) - a plugin for Flake8 that provides specializations for type hinting stub files.
+- [pytype](https://github.com/google/pytype/) - a static type analyzer, alternative to mypy. Can do static type inference, and generate stub files with infered types.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - part of pytype toolchain, applies stub files onto source code.
 - [retype](https://github.com/ambv/retype) - another one tool to apply stubs to code.
 
