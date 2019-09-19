@@ -1,0 +1,8 @@
+# Based on: https://github.com/sindresorhus/awesome-lint
+
+language: node_js
+node_js:
+  - 10
+
+git:
+  depth: false

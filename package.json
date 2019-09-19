@@ -1,0 +1,22 @@
+{
+  "name": "awesome-python-typing",
+  "version": "0.0.0",
+  "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
+  "main": "false",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typeddjango/awesome-python-typing.git"
+  },
+  "author": "mail@sobolevn.me",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/typeddjango/awesome-python-typing/issues"
+  },
+  "homepage": "https://github.com/typeddjango/awesome-python-typing#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.11.0"
+  }
+}
