@@ -9,7 +9,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [Static type checkers](#static-type-checkers)
 - [Stub packages](#stub-packages)
-- [Mypy plugins](https://github.com/typeddjango/awesome-python-stubs#mypy-plugins)
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Articles](#articles)
@@ -40,23 +39,32 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 
 
-## Mypy plugins
+## Tools
+
+### Linters
+
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - the strictest and most opinionated python linter ever.
+- [flake8-mypy](https://github.com/ambv/flake8-mypy) - a plugin for flake8 integrating mypy.
+- [flake8-pyi](https://github.com/ambv/flake8-pyi) - a plugin for Flake8 that provides specializations for type hinting stub files.
+- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - a plugin for flake8 to validate annotations complexity.
+
+### Testing
+
+- [pytest-mypy](https://github.com/dbader/pytest-mypy) - mypy static type checker plugin for Pytest.
+- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - pytest plugin for testing mypy types, stubs, and plugins.
+
+### Working with types
+
+- [MonkeyType](https://github.com/instagram/MonkeyType) - collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
+- [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - part of pytype toolchain, applies stub files onto source code.
+- [retype](https://github.com/ambv/retype) - another one tool to apply stubs to code.
+- [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - tool to generate mypy stubs from protobufs.
+
+### Mypy plugins
 
 - [pynamodb-mypy](https://github.com/lyft/pynamodb-mypy) - plugin for [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
 - [mypy-zope](https://github.com/Shoobx/mypy-zope) - plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - some plugins already integrated into mypy.
-
-
-## Tools
-
-- [MonkeyType](https://github.com/instagram/MonkeyType) - collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
-- [pytest-mypy](https://github.com/dbader/pytest-mypy) - mypy static type checker plugin for Pytest.
-- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - pytest plugin for testing mypy types, stubs, and plugins.
-- [flake8-mypy](https://github.com/ambv/flake8-mypy) - a plugin for flake8 integrating mypy.
-- [flake8-pyi](https://github.com/ambv/flake8-pyi) - a plugin for Flake8 that provides specializations for type hinting stub files.
-- [pytype](https://github.com/google/pytype/) - a static type analyzer, alternative to mypy. Can do static type inference, and generate stub files with infered types.
-- [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - part of pytype toolchain, applies stub files onto source code.
-- [retype](https://github.com/ambv/retype) - another one tool to apply stubs to code.
 
 
 ## Integrations
@@ -69,10 +77,24 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Articles
 
+### PEPs
+
+- [PEP-483](https://www.python.org/dev/peps/pep-0483/) about type hints theory.
 - [PEP-484](https://www.python.org/dev/peps/pep-0484/) about type annotations.
+- [PEP-544](https://www.python.org/dev/peps/pep-0544/) about protocols.
 - [PEP-561](https://www.python.org/dev/peps/pep-0561/) about distributing and packaging type information.
+- [PEP-563](https://www.python.org/dev/peps/pep-0563/) about postponed evaluation of annotations.
+- [PEP-586](https://www.python.org/dev/peps/pep-0586/) about literal types.
+- [PEP-3107](https://www.python.org/dev/peps/pep-3107/) about function annotations.
+
+### Tools' docs
+
 - [MyPy docs](https://mypy.readthedocs.io/en/latest/stubs.html) about stubs.
-- [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - full tutorial.
+
+### Third-party articles
+
+- [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) - full tutorial about type-checking django.
+- [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - full tutorial about testing mypy types.
 
 
 ## Communities
