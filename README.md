@@ -57,6 +57,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
 - [retype](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+- [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
 ### Mypy plugins
 
