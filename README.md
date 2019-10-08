@@ -25,10 +25,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Dynamic type checkers
 
-- [enforce](https://github.com/RussBaz/enforce) - runtime type checking for integration testing and data validation.
-- [magic-constraints](https://github.com/huntzhan/magic-constraints) - type introspection and runtime parameter type/value checking.
-- [pydantic](https://github.com/samuelcolvin/pydantic) - data parsing using Python type hinting. Supports dataclasses.
-- [typeguard](https://github.com/agronholm/typeguard) - another one runtime type checker.
+- [enforce](https://github.com/RussBaz/enforce) - Runtime type checking for integration testing and data validation.
+- [magic-constraints](https://github.com/huntzhan/magic-constraints) - Type introspection and runtime parameter type/value checking.
+- [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+- [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
 ## Stub packages
 
