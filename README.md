@@ -6,6 +6,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Contents
 
 - [Static type checkers](#static-type-checkers)
+- [Dynamic type checkers](#dynamic-type-checkers)
 - [Stub packages](#stub-packages)
 - [Tools](#tools)
 - [Integrations](#integrations)
@@ -22,6 +23,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 - [pyright](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
+## Dynamic type checkers
+
+- [enforce](https://github.com/RussBaz/enforce) - runtime type checking for integration testing and data validation.
+- [magic-constraints](https://github.com/huntzhan/magic-constraints) - type introspection and runtime parameter type/value checking.
+- [pydantic](https://github.com/samuelcolvin/pydantic) - data parsing using Python type hinting. Supports dataclasses.
+- [typeguard](https://github.com/agronholm/typeguard) - another one runtime type checker.
 
 ## Stub packages
 
