@@ -25,8 +25,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Dynamic type checkers
 
-- [enforce](https://github.com/RussBaz/enforce) - Runtime type checking for integration testing and data validation.
-- [magic-constraints](https://github.com/huntzhan/magic-constraints) - Type introspection and runtime parameter type/value checking.
+- [pytypes](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
 - [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
@@ -67,6 +66,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [retype](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+- [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
 
 ### Mypy plugins
 
