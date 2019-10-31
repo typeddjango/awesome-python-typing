@@ -8,7 +8,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Static type checkers](#static-type-checkers)
 - [Dynamic type checkers](#dynamic-type-checkers)
 - [Stub packages](#stub-packages)
-- [Backports and improvements](backports-and-improvements)
+- [Backports and improvements](#backports-and-improvements)
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Articles](#articles)
