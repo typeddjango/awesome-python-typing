@@ -8,6 +8,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Static type checkers](#static-type-checkers)
 - [Dynamic type checkers](#dynamic-type-checkers)
 - [Stub packages](#stub-packages)
+- [Backports and improvements](backports-and-improvements)
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Articles](#articles)
@@ -43,6 +44,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 
+## Backports and improvements
+
+- [typed-ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
+- [typing-extensions](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 
 ## Tools
 
