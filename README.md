@@ -48,6 +48,8 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [typed-ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 - [typing-extensions](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
+- [typingplus](https://github.com/contains-io/typingplus/) - Backport support, dynamic is_instance and cast for abstract types.
+- [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation. 
 
 ## Tools
 
@@ -72,6 +74,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
+- [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.   
 
 ### Mypy plugins
 
@@ -100,6 +103,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [PEP-586](https://www.python.org/dev/peps/pep-0586/) - About literal types.
 - [PEP-3107](https://www.python.org/dev/peps/pep-3107/) - About function annotations.
 
+### Python docs
+
+- [typing](https://docs.python.org/3/library/typing.html) - Support for type hints.
+
 ### Tools' docs
 
 - [MyPy docs](https://mypy.readthedocs.io/en/latest/stubs.html) - General information about stubs.
@@ -110,7 +117,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Simple dependent types in Python](https://sobolevn.me/2019/01/simple-dependent-types-in-python) - Full tutorial about `Literal` types.
 - [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) - Full tutorial about type-checking django.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - Full tutorial about testing mypy types.
-
+- [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) - As of May 2018.
 
 ## Communities
 
