@@ -27,8 +27,9 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Dynamic type checkers
 
 - [pytypes](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
-- [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+- [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. 
 - [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+- [typical](https://typical.seandstewart.io/) - Data parsing and automatic type-coercion using type hinting. Supports      dataclasses and function signatures.
 
 ## Stub packages
 
@@ -75,6 +76,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.   
+- [typical](https://typical.seandstewart.io/) - Lib for inspecting and coercing builtin types, custom user-defined types, and the types defined in the Python standard typing module at runtime.
 
 ### Mypy plugins
 
