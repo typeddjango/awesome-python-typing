@@ -76,7 +76,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.   
-- [typical](https://github.com/seandstewart/typical/) - Lib for inspecting and coercing builtin types, custom user-defined types, and the types defined in the Python standard typing module at runtime.
 
 ### Mypy plugins
 
