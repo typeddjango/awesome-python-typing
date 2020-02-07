@@ -1,4 +1,4 @@
-# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)
+# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)](https://gitter.im/mypy-django/Lobby)
 
 Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
