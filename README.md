@@ -102,24 +102,22 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [PEP-3107](https://www.python.org/dev/peps/pep-3107) - Function Annotations
 - [PEP-482](https://www.python.org/dev/peps/pep-0482/) - Literature Overview for Type Hints
-- [PEP-483](https://www.python.org/dev/peps/pep-0483/) - The Theory of Type Hints (*)
-- [PEP-484](https://www.python.org/dev/peps/pep-0484/) - Type Hints (*)
-- [PEP-526](https://www.python.org/dev/peps/pep-0526/) - Syntax for Variable Annotations (*)
-- [PEP-544](https://www.python.org/dev/peps/pep-0544/) - Protocols: Structural subtyping (static duck typing) (*)
+- [PEP-483](https://www.python.org/dev/peps/pep-0483/) - The Theory of Type Hints
+- [PEP-484](https://www.python.org/dev/peps/pep-0484/) - Type Hints
+- [PEP-526](https://www.python.org/dev/peps/pep-0526/) - Syntax for Variable Annotations
+- [PEP-544](https://www.python.org/dev/peps/pep-0544/) - Protocols: Structural subtyping (static duck typing)
 - [PEP-557](https://www.python.org/dev/peps/pep-0557/) - Data Classes
 - [PEP-560](https://www.python.org/dev/peps/pep-0560/) - Core support for typing module and generic types
 - [PEP-561](https://www.python.org/dev/peps/pep-0561/) - Distributing and Packaging Type Information
 - [PEP-563](https://www.python.org/dev/peps/pep-0563/) - Postponed Evaluation of Annotations
 - [PEP-585](https://www.python.org/dev/peps/pep-0585/) - Type Hinting Generics In Standard Collections
-- [PEP-586](https://www.python.org/dev/peps/pep-0586/) - Literal Types (*)
-- [PEP-589](https://www.python.org/dev/peps/pep-0589/) - TypedDict: Type Hints for Dictionaries with a Fixed Set of Keys (*)
-- [PEP-591](https://www.python.org/dev/peps/pep-0591/) - Adding a final qualifier to typing (*)
+- [PEP-586](https://www.python.org/dev/peps/pep-0586/) - Literal Types
+- [PEP-589](https://www.python.org/dev/peps/pep-0589/) - TypedDict: Type Hints for Dictionaries with a Fixed Set of Keys
+- [PEP-591](https://www.python.org/dev/peps/pep-0591/) - Adding a final qualifier to typing
 - [PEP-593](https://www.python.org/dev/peps/pep-0593/) - Flexible function and variable annotations
 - [PEP-604](https://www.python.org/dev/peps/pep-0604/) - Complementary syntax for Union[]
 - [PEP-612](https://www.python.org/dev/peps/pep-0612/) - Parameter Specification Variables
 - [PEP-613](https://www.python.org/dev/peps/pep-0613/) - Explicit Type Aliases
-
-(*) these PEPs are mentioned on the first paragraph of the [typing](https://docs.python.org/3/library/typing.html) module documenation, so they may be the best places to start.
 
 
 ### Python docs
