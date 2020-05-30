@@ -23,6 +23,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pytype](https://github.com/google/pytype) - Tool to check and infer types for Python code - without requiring type annotations.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 - [pyright](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+- [pyanalyze](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker for Python.
 
 ## Dynamic type checkers
 
