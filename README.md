@@ -1,4 +1,4 @@
-# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)](https://gitter.im/mypy-django/Lobby)
+# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)][TypedDjango]
 
 Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
@@ -39,8 +39,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 - [django-stubs](https://github.com/typeddjango/django-stubs) - Stubs for [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF](https://github.com/encode/django-rest-framework).
-- [numpy-stubs](https://github.com/numpy/numpy-stubs) - Stubs for [NumPy](http://github.com/numpy/numpy).
+- [numpy-stubs](https://github.com/numpy/numpy-stubs) - Stubs for [NumPy].
+<!--lint disable double-link-->
 - [dry-python/returns](https://github.com/dry-python/returns) - Stubs for [returns](https://github.com/dry-python/returns).
+<!--lint enable double-link-->
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc](https://github.com/grpc/grpc).
 - [boto3-stubs](https://github.com/vemel/mypy_boto3_builder) - Stubs for [boto3](https://github.com/boto/boto3).
@@ -49,14 +51,14 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
-- [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [NumPy](http://github.com/numpy/numpy), [pandas](https://github.com/pandas-dev/pandas), and [Matplotlib](https://github.com/matplotlib/matplotlib).
+- [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [NumPy], [pandas](https://github.com/pandas-dev/pandas), and [Matplotlib](https://github.com/matplotlib/matplotlib).
 
 ## Backports and improvements
 
 - [typed-ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 - [typing-extensions](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 - [typingplus](https://github.com/contains-io/typingplus/) - Backport support, dynamic is_instance and cast for abstract types.
-- [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation. 
+- [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ## Tools
 
@@ -84,7 +86,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
-- [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.   
+- [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 
 ### Mypy plugins
 
@@ -145,7 +147,9 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Communities
 
 - [python/typing](https://gitter.im/python/typing) - Official typing gitter chat.
-- [TypedDjango](https://gitter.im/mypy-django/Lobby) - Official organisation gitter chat.
+<!--lint disable awesome-list-item-->
+- [TypedDjango] - Official organisation gitter chat.
+<!--lint enable awesome-list-item-->
 - [PythonRu#typing](https://python-ru.slack.com) - Russian slack chat (invites are [here](https://slack.python.ru/)) about types.
 
 
@@ -158,3 +162,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## License
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+[typeddjango]: https://gitter.im/mypy-django/Lobby
+[numpy]: http://github.com/numpy/numpy
