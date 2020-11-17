@@ -159,10 +159,5 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [python-typecheckers](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 
-## License
-
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-
 [typeddjango]: https://gitter.im/mypy-django/Lobby
 [numpy]: http://github.com/numpy/numpy
