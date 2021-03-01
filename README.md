@@ -40,7 +40,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 - [django-stubs](https://github.com/typeddjango/django-stubs) - Stubs for [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF](https://github.com/encode/django-rest-framework).
-- [numpy-stubs](https://github.com/numpy/numpy-stubs) - Stubs for [NumPy].
 <!--lint disable double-link-->
 - [dry-python/returns](https://github.com/dry-python/returns) - Stubs for [returns](https://github.com/dry-python/returns).
 <!--lint enable double-link-->
