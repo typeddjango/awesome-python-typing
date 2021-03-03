@@ -88,15 +88,15 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ### Helper tools to add annotations to existing code
 
 - [MonkeyType](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
-- [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) MonkeyType plugin for pytest.
+- [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 - [pyannotate](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 <!--lint disable double-link-->
 - [pyre infer](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
 <!--lint enable double-link-->
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
-- [Typilus](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [github action](https://github.com/typilus/typilus-action)
-- [Type4Py](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference for Python
+- [Typilus](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action](https://github.com/typilus/typilus-action)
+- [Type4Py](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference for Python.
 
 
 ### Mypy plugins
