@@ -154,6 +154,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) - Full tutorial about type-checking django.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - Full tutorial about testing mypy types.
 - [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) - As of May 2018.
+- [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - Type Annotate an existing Python Django Codebase with MonkeyType.
 
 ## Communities
 
