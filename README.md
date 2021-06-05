@@ -61,6 +61,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typing-extensions](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 - [typingplus](https://github.com/contains-io/typingplus/) - Backport support, dynamic is_instance and cast for abstract types.
 - [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+- [typing_utils](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get_origin) & add issubtype & more.
 
 ## Tools
 
