@@ -52,6 +52,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) - Stubs for [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
+- [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [pytorch](https://pytorch.org/).
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [NumPy], [pandas](https://github.com/pandas-dev/pandas), and [Matplotlib](https://github.com/matplotlib/matplotlib).
 
