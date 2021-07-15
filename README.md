@@ -1,4 +1,4 @@
-# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)][TypedDjango]
+# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)](https://gitter.im/mypy-django/Lobby?source=title)
 
 Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
@@ -154,14 +154,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 ## Communities
 
 - [python/typing](https://gitter.im/python/typing) - Official typing gitter chat.
-<!--lint disable awesome-list-item-->
-- [TypedDjango] - Official organisation gitter chat.
-<!--lint enable awesome-list-item-->
+- [TypedDjango](https://gitter.im/mypy-django/Lobby) - Official organisation gitter chat.
 - [PythonRu#typing](https://python-ru.slack.com) - Russian slack chat (invites are [here](https://slack.python.ru/)) about types.
 
 ## Related
 
 - [awesome-python](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 - [python-typecheckers](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
-
-[typeddjango]: https://gitter.im/mypy-django/Lobby
