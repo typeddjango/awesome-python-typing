@@ -2,7 +2,6 @@
 
 Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
-
 ## Contents
 
 - [Static type checkers](#static-type-checkers)
@@ -16,7 +15,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Related](#related)
 
 [Full list of typed projects on PyPi](https://pypi.org/search/?q=&o=&c=Typing+%3A%3A+Typed) is here.
-
 
 ## Static type checkers
 
@@ -91,7 +89,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 - [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations in Python.
-- [mypy-silent](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments. 
+- [mypy-silent](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 
 ### Helper tools to add annotations to existing code
 
@@ -107,7 +105,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Typilus](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action](https://github.com/typilus/typilus-action)
 - [Type4Py](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference for Python.
 
-
 ### Mypy plugins
 
 - [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
@@ -115,14 +112,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
 - [loguru-mypy](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru](https://github.com/Delgan/loguru) support.
 
-
 ## Integrations
 
 - [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 - [vim-mypy](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 - [linter-mypy](https://atom.io/packages/linter-mypy) - Mypy integration for Atom.
 - [emacs-flycheck-mypy](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
-
 
 ## Articles
 
@@ -146,7 +141,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [PEP-604](https://www.python.org/dev/peps/pep-0604/) - Complementary syntax for Union[].
 - [PEP-612](https://www.python.org/dev/peps/pep-0612/) - Parameter Specification Variables.
 - [PEP-613](https://www.python.org/dev/peps/pep-0613/) - Explicit Type Aliases.
-
 
 ### Python docs
 
@@ -173,12 +167,10 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 <!--lint enable awesome-list-item-->
 - [PythonRu#typing](https://python-ru.slack.com) - Russian slack chat (invites are [here](https://slack.python.ru/)) about types.
 
-
 ## Related
 
 - [awesome-python](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 - [python-typecheckers](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
-
 
 [typeddjango]: https://gitter.im/mypy-django/Lobby
 [numpy]: http://github.com/numpy/numpy
