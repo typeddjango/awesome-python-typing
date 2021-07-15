@@ -142,14 +142,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [PEP-612](https://www.python.org/dev/peps/pep-0612/) - Parameter Specification Variables.
 - [PEP-613](https://www.python.org/dev/peps/pep-0613/) - Explicit Type Aliases.
 
-### Python docs
-
-- [typing](https://docs.python.org/3/library/typing.html) - Support for type hints.
-
-### Tools' docs
-
-- [MyPy docs](https://mypy.readthedocs.io/en/latest/stubs.html) - General information about stubs.
-
 ### Third-party articles
 
 - [1-minute guide to real constants in Python](https://sobolevn.me/2018/07/real-python-contants) - Full tutorial about `Final` constants and inheritance.
@@ -157,7 +149,9 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Simple dependent types in Python](https://sobolevn.me/2019/01/simple-dependent-types-in-python) - Full tutorial about `Literal` types.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - Full tutorial about testing mypy types.
 - [The state of type hints in Python](https://bernat.tech/posts/the-state-of-type-hints-in-python/) - As of May 2018.
+- [Type hints cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html) - Cheat sheet on writing type annotations by MyPy team.
 - [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) - Full tutorial about type-checking django.
+- [typing](https://docs.python.org/3/library/typing.html) - Official Python documentation for `typing` module.
 
 ## Communities
 
