@@ -56,7 +56,11 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Additional types
 
+- [meiga](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+- [option](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+- [phantom-types](https://github.com/antonagestam/phantom-types) - Phantom types.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+- [safetywrap](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 - [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ## Backports and improvements
@@ -76,7 +80,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
 - [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
 - [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
-- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Testing
 
