@@ -7,6 +7,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Static type checkers](#static-type-checkers)
 - [Dynamic type checkers](#dynamic-type-checkers)
 - [Stub packages](#stub-packages)
+- [Additional types](#additional-types)
 - [Backports and improvements](#backports-and-improvements)
 - [Tools](#tools)
 - [Integrations](#integrations)
@@ -48,18 +49,19 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
-<!--lint disable double-link-->
-- [returns](https://github.com/dry-python/returns) - Stubs for [returns](https://github.com/dry-python/returns).
-<!--lint enable double-link-->
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [pytorch](https://pytorch.org/).
 - [typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 
+## Additional types
+
+- [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+- [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+
 ## Backports and improvements
 
 - [typed-ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
-- [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 - [typing-extensions](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 - [typing-utils](https://github.com/bojiang/typing_utils) - Backport 3.8+ runtime typing utils(for eg: get_origin) & add issubtype & more.
 - [typingplus](https://github.com/contains-io/typingplus/) - Backport support, dynamic is_instance and cast for abstract types.
