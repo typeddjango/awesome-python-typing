@@ -19,12 +19,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Static type checkers
 
-- [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484).
-- [pyanalyze](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker for Python.
+- [mypy](https://github.com/python/mypy) - Optional static typing (PEP 484).
+- [pyanalyze](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 - [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
-- [pyre](https://pyre-check.org/) - Performant type-checker for Python 3.
+- [pyre](https://pyre-check.org/) - Performant type-checker.
 - [pyright](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
-- [pytype](https://github.com/google/pytype) - Tool to check and infer types for Python code - without requiring type annotations.
+- [pytype](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ## Dynamic type checkers
 
@@ -51,7 +51,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [pytorch](https://pytorch.org/).
-- [typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+- [typeshed](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 
 ## Additional types
@@ -90,25 +90,25 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Working with types
 
-- [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations in Python.
+- [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
 - [merge-pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 - [mypy-silent](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 - [retype](https://github.com/ambv/retype) - Another tool to apply stubs to code.
-- [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the Python standard typing module.
+- [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 
 ### Helper tools to add annotations to existing code
 
 - [autotyper](https://github.com/JelleZijlstra/autotyper) - Automatically add simple return type annotations for functions (bool, None, Optional).
-- [monkeytype](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.
+- [monkeytype](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 - [pyannotate](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
 - [pyre infer](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
-- [type4py](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference for Python.
+- [type4py](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 - [typilus](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action](https://github.com/typilus/typilus-action)
 
 ### Mypy plugins
