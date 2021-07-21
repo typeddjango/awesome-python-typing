@@ -128,6 +128,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypy-pycharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 - [pylance](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 - [vim-mypy](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
+- [nbQA](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
 ## Articles
 
