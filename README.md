@@ -97,6 +97,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypy-silent](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 - [retype](https://github.com/ambv/retype) - Another tool to apply stubs to code.
+- [pep585-upgrade](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 
