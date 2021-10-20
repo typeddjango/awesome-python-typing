@@ -168,6 +168,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/) - An article based on two recent talks on adding type checks to Django.
 - [typing](https://docs.python.org/3/library/typing.html) - Official Python documentation for `typing` module.
 - [Python-typing-koans](https://github.com/kracekumar/python-typing-koans/) - A set of examples to learn optional static typing in Python.
+- [Adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) - Tests aren’t enough: Case study after adding type hints to urllib3
 
 ## Communities
 
