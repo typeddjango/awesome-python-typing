@@ -34,6 +34,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [strongtyping](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 - [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 - [typical](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
+- [https://github.com/davidfstr/trycast](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
 
 ## Stub packages
 
@@ -170,6 +171,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typing](https://docs.python.org/3/library/typing.html) - Official Python documentation for `typing` module.
 - [Python-typing-koans](https://github.com/kracekumar/python-typing-koans/) - A set of examples to learn optional static typing in Python.
 - [Adding type hints to urllib3](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3) - Tests are not enough: Case study adding type hints to urllib3.
+- [Adam Johnsons Blog](https://adamj.eu/tech/tag/mypy/) - Adam Johnson blogs about typing practices.
 
 ## Communities
 
