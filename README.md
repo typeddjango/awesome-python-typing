@@ -34,7 +34,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [strongtyping](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 - [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 - [typical](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
-- [https://github.com/davidfstr/trycast](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
+- [trycast](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
 
 ## Stub packages
 
