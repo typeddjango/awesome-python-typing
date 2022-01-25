@@ -87,6 +87,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Testing
 
+- [mypy-test](https://github.com/orsinium-labs/mypy-test) - Test mypy plugins, stubs, custom types.
 - [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 - [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 - [pytest-mypy](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
@@ -100,6 +101,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 - [retype](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 - [pep585-upgrade](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
+- [typeforce](https://github.com/orsinium-labs/typeforce) - CLI tool that enriches your Python environment with type annotations, empowering mypy.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 
