@@ -99,15 +99,16 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
 - [merge-pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+- [mypy-baseline](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 - [mypy-silent](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
-- [retype](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 - [pep585-upgrade](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
+- [retype](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 - [typeforce](https://github.com/orsinium-labs/typeforce) - CLI tool that enriches your Python environment with type annotations, empowering mypy.
+- [typesplainer](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
-- [typesplainer](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 
 ### Helper tools to add annotations to existing code
 
