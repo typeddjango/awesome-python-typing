@@ -110,7 +110,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typesplainer](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 - [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
-- [typesplainer](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 
 ### Helper tools to add annotations to existing code
 
