@@ -125,7 +125,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [type4py](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 - [typilus](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action](https://github.com/typilus/typilus-action)
 - [auto-optional](https://github.com/Luttik/auto-optional) - Makes typed arguments Optional when the default argument is `None`.
-- [pep585-upgrade](https://github.com/snok/pep585-upgrade) - A [pre-commit](https://pre-commit.com/) hook configured to automatically upgrade your type hints to the new native types implemented in [PEP 585](https://www.python.org/dev/peps/pep-0585/).
 
 ### Mypy plugins
 
