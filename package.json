@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/typeddjango/awesome-python-typing#readme",
   "devDependencies": {
-    "awesome-lint": "^0.11.0"
+    "awesome-lint": "^0.18.2"
   }
 }
