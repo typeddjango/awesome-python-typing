@@ -31,6 +31,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [beartype](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
 - [pytypes](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
+- [safetypes](https://github.com/wiscot/safetypes) - Python Safe Typing with annotations.
 - [strongtyping](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 - [typedpy](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
 - [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
