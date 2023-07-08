@@ -19,6 +19,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Static type checkers
 
+- [basedmypy](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 - [mypy](https://github.com/python/mypy) - Optional static typing (PEP 484).
 - [pyanalyze](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 - [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
