@@ -70,6 +70,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 - [safetywrap](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 - [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+- [useful-types](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
 ## Backports and improvements
 
