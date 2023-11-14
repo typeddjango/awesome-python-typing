@@ -43,7 +43,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [asgiref](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
 - [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3](https://github.com/boto/boto3).
-- [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore](https://github.com/aio-libs/aiobotocore).
 - [botostubs](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
 - [celery-types](https://github.com/sbdchd/celery-types) - Type stubs for [Celery](https://github.com/celery/celery) and its related packages [django-celery-results](https://github.com/celery/django-celery-results), [ampq](https://github.com/celery/py-amqp), [kombu](https://github.com/celery/kombu), [billiard](https://github.com/celery/billiard), [vine](https://github.com/celery/vine) and [ephem](https://github.com/brandon-rhodes/pyephem).
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy](http://github.com/numpy/numpy), [pandas](https://github.com/pandas-dev/pandas), and [matplotlib](https://github.com/matplotlib/matplotlib).
@@ -54,10 +53,12 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) - Stubs for [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
 - [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
+- [python-phonenumbers-stubs](https://github.com/AA-Turner/python-phonenumbers-stubs) - Stubs for [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [sqlalchemy2-stubs](https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html) - Official stubs and mypy plugin for [SQLAlchemy](https://www.sqlalchemy.org).
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [pytorch](https://pytorch.org/).
+- [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore](https://github.com/aio-libs/aiobotocore).
 - [typeshed](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 
@@ -69,6 +70,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 - [safetywrap](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 - [typet](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+- [useful-types](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
 ## Backports and improvements
 
