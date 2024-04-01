@@ -63,6 +63,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 - [meiga](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
 - [option](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+- [optype](https://github.com/jorenham/optype) - Opinionated `collections.abc` and `operators` alternative: Flexible single-method protocols and typed operators with predictable names.
 - [phantom-types](https://github.com/antonagestam/phantom-types) - Phantom types.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 - [safetywrap](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
