@@ -53,6 +53,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 - [python-phonenumbers-stubs](https://github.com/AA-Turner/python-phonenumbers-stubs) - Stubs for [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
+- [scipy-stubs](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy](https://github.com/scipy/scipy).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [sqlalchemy2-stubs](https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html) - Official stubs and mypy plugin for [SQLAlchemy](https://www.sqlalchemy.org).
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [pytorch](https://pytorch.org/).
