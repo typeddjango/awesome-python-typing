@@ -138,6 +138,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
 - [numpy](https://numpy.org/devdocs/reference/typing.html) - Plugin for [NumPy](https://numpy.org) support.
 - [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
+- [pydantic](https://docs.pydantic.dev/latest/integrations/mypy/) - Plugin for additional [Pydantic](https://docs.pydantic.dev/latest/) support.
 
 ## Integrations
 
