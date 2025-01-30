@@ -139,8 +139,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [numpy](https://numpy.org/devdocs/reference/typing.html) - Plugin for [NumPy](https://numpy.org) support.
 - [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
 - [pydantic](https://docs.pydantic.dev/latest/integrations/mypy/) - Plugin for additional [Pydantic](https://docs.pydantic.dev/latest/) support.
-- [django-stubs](https://github.com/typeddjango/django-stubs) - Plugin for [Django](https://www.djangoproject.com/) support.
-- [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - Plugin for [Django REST framework](https://www.django-rest-framework.org/) support.
 
 ## Integrations
 
