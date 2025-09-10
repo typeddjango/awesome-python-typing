@@ -12,7 +12,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Tools](#tools)
 - [Integrations](#integrations)
 - [Articles](#articles)
-- [Communities](#communities)
 - [Related](#related)
 
 [Full list of typed projects on PyPi](https://pypi.org/search/?q=&o=&c=Typing+%3A%3A+Typed) is here.
