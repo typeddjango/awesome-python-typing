@@ -18,7 +18,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Static type checkers
 
-- [basedmypy](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 - [basedpyright](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
 - [mypy](https://github.com/python/mypy) - Optional static typing (PEP 484).
 - [pyanalyze](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
@@ -41,26 +40,18 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Stub packages
 
-- [asgiref](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
-- [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3](https://github.com/boto/boto3).
-- [botostubs](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
+- [jax-typing](...)
 - [celery-types](https://github.com/sbdchd/celery-types) - Type stubs for [Celery](https://github.com/celery/celery) and its related packages [django-celery-results](https://github.com/celery/django-celery-results), [ampq](https://github.com/celery/py-amqp), [kombu](https://github.com/celery/kombu), [billiard](https://github.com/celery/billiard), [vine](https://github.com/celery/vine) and [ephem](https://github.com/brandon-rhodes/pyephem).
 - [django-stubs](https://github.com/typeddjango/django-stubs) - Stubs for [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF](https://github.com/encode/django-rest-framework).
-- [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc](https://github.com/grpc/grpc).
-- [lxml-stubs](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
-- [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-- [python-phonenumbers-stubs](https://github.com/AA-Turner/python-phonenumbers-stubs) - Stubs for [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers).
+- [types-lxml](https://github.com/abelcheung/types-lxml) - Stubs for [lxml](https://lxml.de).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - Stubs for [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 - [scipy-stubs](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy](https://github.com/scipy/scipy).
-- [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
-- [sqlalchemy2-stubs](https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html) - Official stubs and mypy plugin for [SQLAlchemy](https://www.sqlalchemy.org).
-- [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [PyTorch](https://pytorch.org/).
-- [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore](https://github.com/aio-libs/aiobotocore).
 - [typeshed](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ## Additional types
 
+- [asgiref](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
 - [meiga](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
 - [option](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
 - [optype](https://github.com/jorenham/optype) - Opinionated `collections.abc` and `operators` alternative: Flexible single-method protocols and typed operators with predictable names.
