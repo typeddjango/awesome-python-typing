@@ -27,6 +27,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pyre](https://pyre-check.org/) - Performant type-checker.
 - [pyright](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 - [pytype](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+- [ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
 
 ## Dynamic type checkers
 
@@ -189,8 +190,11 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Adam Johnsons Blog](https://adamj.eu/tech/tag/mypy/) - Adam Johnson blogs about typing practices.
 - [ParamSpec Guide](https://sobolevn.me/2021/12/paramspec-guide) - Newly released feature in `PEP612` allows you do a lot of advanced typing things with functions and their signatures.
 - [Static Typing Python Decorators](https://rednafi.github.io/reflections/static-typing-python-decorators.html) - Accurately static typing decorators in Python is an icky business. The wrapper function obfuscates type information required to statically determine the types of the parameters and the return values of the wrapped function.
+- [How do mypy, Pyright, and ty compare?](https://pydevtools.com/handbook/explanation/how-do-mypy-pyright-and-ty-compare/) - A detailed comparison of the three major Python static type checkers covering features, performance, and trade-offs.
+- [ty: A Complete Guide](https://pydevtools.com/handbook/explanation/ty-complete-guide/) - Comprehensive guide to ty, the fast Python type checker from Astral.
 
 ## Related
 
 - [awesome-python](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+- [Python Developer Tooling Handbook](https://pydevtools.com/) - Comprehensive handbook covering Python type checkers, linters, and development tools with reference pages for [mypy](https://pydevtools.com/handbook/reference/mypy/), [Pyright](https://pydevtools.com/handbook/reference/pyright/), and [ty](https://pydevtools.com/handbook/reference/ty/).
 - [python-typecheckers](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
