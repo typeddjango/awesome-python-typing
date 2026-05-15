@@ -24,8 +24,9 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pyanalyze](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 - [pylyzer](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
-- [pyre](https://pyre-check.org/) - Performant type-checker.
+- [pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
 - [pyright](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+- [pycroscope](https://github.com/JelleZijlstra/pycroscope) - A semi-static type checker for Python code. It imports the modules it type checks, enabling `pycroscope` to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend `pycroscope` with plugins that interact directly with your code.
 - [pytype](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 - [ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
 
