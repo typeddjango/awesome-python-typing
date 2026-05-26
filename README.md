@@ -29,7 +29,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pycroscope](https://github.com/JelleZijlstra/pycroscope) - A semi-static type checker for Python code. It imports the modules it type checks, enabling `pycroscope` to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend `pycroscope` with plugins that interact directly with your code.
 - [pytype](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 - [ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
-- [zuban](https://github.com/zubanls/zuban) - A Mypy-compatible Python type checker and Language Server built in Rust
+- [zuban](https://github.com/zubanls/zuban) - A Mypy-compatible Python type checker and Language Server built in Rust.
 
 ## Dynamic type checkers
 
