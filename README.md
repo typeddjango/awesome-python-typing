@@ -41,6 +41,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 - [typical](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 - [trycast](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
+- [type_enforced](https://github.com/connor-makowski/type_enforced) - Fast runtime type enforcement for annotations with no dependencies. Includes fast O(1) and full O(n) operations.
 
 ## Stub packages
 
