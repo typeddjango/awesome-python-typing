@@ -192,6 +192,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Static Typing Python Decorators](https://rednafi.github.io/reflections/static-typing-python-decorators.html) - Accurately static typing decorators in Python is an icky business. The wrapper function obfuscates type information required to statically determine the types of the parameters and the return values of the wrapped function.
 - [How do mypy, Pyright, and ty compare?](https://pydevtools.com/handbook/explanation/how-do-mypy-pyright-and-ty-compare/) - A detailed comparison of the three major Python static type checkers covering features, performance, and trade-offs.
 - [ty: A Complete Guide](https://pydevtools.com/handbook/explanation/ty-complete-guide/) - Comprehensive guide to ty, the fast Python type checker from Astral.
+- [Python Type Hints: A Practical Guide](https://pythonresources.com/guides/python-type-hints-guide/) - Covers Optional, generics, Protocol, TypedDict, and where Pydantic fits in alongside static type checking.
 
 ## Related
 
