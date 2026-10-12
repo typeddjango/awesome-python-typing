@@ -136,6 +136,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [loguru-mypy](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru](https://github.com/Delgan/loguru) support.
 - [mypy-zope](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
+- [nuke-di](https://github.com/troyan-dy/nuke-di/blob/master/docs/guide/clients.md#checking-the-tree-with-mypy) - Plugin for [nuke-di](https://github.com/troyan-dy/nuke-di) support: reports a dependency that cannot be resolved or a circular dependency at the call that would raise it, and types `inject()` as the function without its injected arguments.
 - [NumPy](https://numpy.org/devdocs/reference/typing.html) - Plugin for [NumPy](https://numpy.org) support.
 - [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
 - [pydantic](https://docs.pydantic.dev/latest/integrations/mypy/) - Plugin for additional [Pydantic](https://docs.pydantic.dev/latest/) support.
