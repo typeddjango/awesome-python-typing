@@ -65,6 +65,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Additional types
 
+- [classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism.
 - [meiga](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
 - [option](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
 - [optype](https://github.com/jorenham/optype) - Opinionated `collections.abc` and `operators` alternative: Flexible single-method protocols and typed operators with predictable names.
