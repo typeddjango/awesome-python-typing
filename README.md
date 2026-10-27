@@ -33,7 +33,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ## Dynamic type checkers
 
-- [beartype](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
+- [beartype](https://github.com/beartype/beartype) - Unbearably fast $O(1)$ runtime type-checking in pure Python.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
 - [pytypes](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
 - [strongtyping](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
@@ -41,7 +41,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typeguard](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 - [typical](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 - [trycast](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
-- [type_enforced](https://github.com/connor-makowski/type_enforced) - Fast runtime type enforcement for annotations with no dependencies. Includes fast O(1) and full O(n) operations.
+- [type_enforced](https://github.com/connor-makowski/type_enforced) - Fast runtime type enforcement for annotations with no dependencies. Includes fast $O(1)$ and full $O(n)$ operations.
 
 ## Stub packages
 
