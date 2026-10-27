@@ -1,4 +1,4 @@
-# Contributing
+# How to contribute
 
 [![Build Status](https://github.com/typeddjango/awesome-python-typing/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/typeddjango/awesome-python-typing/actions?query=workflow%3ACI)
 
