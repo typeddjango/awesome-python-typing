@@ -128,6 +128,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 - [RightTyper](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
+- [ty-types](https://github.com/openrewrite/ty-types) - A Rust CLI that exposes ty's Python type inference as structured JSON.
 - [auto-optional](https://github.com/Luttik/auto-optional) - Makes typed arguments Optional when the default argument is `None`.
 
 ### Mypy plugins
