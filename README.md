@@ -60,7 +60,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [sqlalchemy2-stubs](https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html) - Official stubs and mypy plugin for [SQLAlchemy](https://www.sqlalchemy.org).
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [PyTorch](https://pytorch.org/).
-- [types-aiobotocore](https://github.com/youtype/botocore-stubs) - Stubs for [aiobotocore](https://github.com/aio-libs/aiobotocore).
+- [types-aiobotocore](https://github.com/youtype/types_aiobotocore_docs) - Stubs for [aiobotocore](https://github.com/aio-libs/aiobotocore).
 - [typeshed](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ## Additional types
