@@ -165,7 +165,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [PEP-589](https://www.python.org/dev/peps/pep-0589/) - TypedDict: Type Hints for Dictionaries with a Fixed Set of Keys.
 - [PEP-591](https://www.python.org/dev/peps/pep-0591/) - Adding a final qualifier to typing.
 - [PEP-593](https://www.python.org/dev/peps/pep-0593/) - Flexible function and variable annotations.
-- [PEP-604](https://www.python.org/dev/peps/pep-0604/) - Complementary syntax for Union[].
+- [PEP-604](https://www.python.org/dev/peps/pep-0604/) - Complementary syntax for `Union[]`.
 - [PEP-612](https://www.python.org/dev/peps/pep-0612/) - Parameter Specification Variables.
 - [PEP-613](https://www.python.org/dev/peps/pep-0613/) - Explicit Type Aliases.
 
