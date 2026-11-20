@@ -56,7 +56,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [scipy-stubs](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy](https://github.com/scipy/scipy).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [sqlalchemy2-stubs](https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html) - Official stubs and mypy plugin for [SQLAlchemy](https://www.sqlalchemy.org).
-- [torchtyping](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [PyTorch](https://pytorch.org/).
+- [jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Enhanced type annotations for [PyTorch](https://pytorch.org/), Numpy, Jax, etc.
 - [types-aiobotocore](https://github.com/youtype/types_aiobotocore_docs) - Stubs for [aiobotocore](https://github.com/aio-libs/aiobotocore).
 - [typeshed](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
