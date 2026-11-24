@@ -140,7 +140,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [vim-mypy](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 - [nbQA](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 - [typeshed-stats](https://github.com/AlexWaygood/typeshed-stats) - Library and command-line tool to gather stats on [typeshed](https://github.com/python/typeshed) packages.
-- [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from and other typing stubs.
+- [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed](https://github.com/python/typeshed) and other typing stubs.
 
 
 ## Articles
