@@ -122,7 +122,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 - [RightTyper](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
-- [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed and other typing stubs.
 
 ### Mypy plugins
 
@@ -140,6 +139,9 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pylance](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 - [vim-mypy](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 - [nbQA](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+- [typeshed-stats](https://github.com/AlexWaygood/typeshed-stats) - Library and command-line tool to gather stats on typeshed](https://github.com/python/typeshed) packages
+- [typeshed_client](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from and other typing stubs.
+
 
 ## Articles
 
