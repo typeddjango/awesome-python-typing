@@ -109,7 +109,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typeforce](https://github.com/orsinium-labs/typeforce) - CLI tool that enriches your Python environment with type annotations, empowering mypy.
 - [typesplainer](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - The typing_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
-- [typing-json](https://pypi.org/project/typing-json/) - Lib for working with typed objects and JSON.
 
 ### Helper tools to add annotations to existing code
 
